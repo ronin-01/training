@@ -16,8 +16,7 @@ main() {
 		cout<<endl;
 	}
 	cout<<endl<<endl;
-	
-	
+		
 	cout<<" b= \n";
 	for(i=0;i<2;i++){
 		for(j=0;j<3;j++){
@@ -37,12 +36,8 @@ main() {
 				m=m+p;
 			}
 			s[i][j]=m;
-			m=0;
-		
-		
-		}
-		
-		
+			m=0;	
+		}		
 	}
 	
 	cout<<" s= \n";
